@@ -137,6 +137,14 @@
       "style": {
         "navigationBarTitleText": "UnoCSS 演示"
       }
+    },
+    {
+      "path": "pages/index/components/newfile",
+      "type": "page"
+    },
+    {
+      "path": "pages/index/components/typicalCase",
+      "type": "page"
     }
   ],
   "globalStyle": {
